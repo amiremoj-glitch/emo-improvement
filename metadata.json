@@ -1,0 +1,7 @@
+{
+  "name": "Emo Improvement",
+  "description": "A modern personal development application featuring a motivational dashboard, task management, goal tracking, and an advanced AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
